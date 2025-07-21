@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Crystal")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/2025-07-05_23-49-18.kicad_sym")(options "")(descr ""))
   (lib (name "Antenna")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6/2025-07-06_01-09-05.kicad_sym")(options "")(descr ""))
+  (lib (name "battery_charger")(type "KiCad")(uri "${KIPRJMOD}/battery_charger.kicad_sym")(options "")(descr ""))
 )
