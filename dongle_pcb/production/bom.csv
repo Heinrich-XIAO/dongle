@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0603,2,1uF,
+C3,0603,1,100nF,
+"C4, C5",0603,2,30pF,
+J2,USB_A_PCB_Edge_receptacle,1,USB_A_PCB_Edge_receptacle,
+R2,0603,1,1k,
+"R3, R4, R5",0603,3,10k,
+"SW1, SW2",KEY-SMD_4P-L3.1-W3.1-P2.00_TS-1077S-01726,2,TS-1077S-01726,C455260
+U1,ESP-M2,1,ESP-M2,
+U2,SOT-23-5,1,AP2112K-3.3,
+U3,SOIC-16_3.9x9.9mm_P1.27mm,1,CH340G,
+Y1,Crystal_SMD_5032-2Pin_5.0x3.2mm,1,12MHz,
